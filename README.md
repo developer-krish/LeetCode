@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0322-coin-change](https://github.com/developer-krish/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/developer-krish/LeetCode/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/developer-krish/LeetCode/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
