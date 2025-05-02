@@ -22,6 +22,7 @@ public:
         string t = s;
         reverse(t.begin(), t.end());
         int n = s.size();
-        return n - LCS(s, t);
+        return n - LCS(s, t); 
+        // number of insertion(length thode thode character of string which is not involved in making string palindromic) = length of string - maximum number of palindromic subseq
     }
 };
