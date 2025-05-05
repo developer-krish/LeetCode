@@ -3,18 +3,39 @@ public:
     int lengthOfLIS(vector<int>& nums) 
     {
         int n = nums.size();
-        vector<int> dp(n, 1);
-        for(int ind = 0 ; ind < n ; ind++)
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        for(int i = 1 ; i < n ; i++)
         {
-            for(int prev = 0 ; prev <= ind - 1 ; prev++)
+            if(nums[i] > temp.back())
+               temp.push_back(nums[i]);
+            else
             {
-                if(nums[prev] < nums[ind])
-                  dp[ind] = max(1 + dp[prev], dp[ind]);
+                int ind = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+                temp[ind] = nums[i];
             }
         }
-        return *max_element(dp.begin(), dp.end());
+        return temp.size();
     }
 };
+// Another method used while printing
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) 
+//     {
+//         int n = nums.size();
+//         vector<int> dp(n, 1);
+//         for(int ind = 0 ; ind < n ; ind++)
+//         {
+//             for(int prev = 0 ; prev <= ind - 1 ; prev++)
+//             {
+//                 if(nums[prev] < nums[ind])
+//                   dp[ind] = max(1 + dp[prev], dp[ind]);
+//             }
+//         }
+//         return *max_element(dp.begin(), dp.end());
+//     }
+// };
 
 // class Solution {
 // public:
