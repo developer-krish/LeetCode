@@ -14,9 +14,6 @@ public:
             if((r - l + 1) - maxFreq > k)
             {
                 freq[s[l] - 'A']--;
-                maxFreq = 0;
-                for(int i = 0 ; i < 25 ; i++) 
-                   maxFreq = max(maxFreq, freq[i]);
                 l++;
             }
             if((r - l + 1) - maxFreq <= k)
