@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/developer-krish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/developer-krish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/developer-krish/LeetCode/tree/master/0078-subsets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/developer-krish/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/developer-krish/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/developer-krish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/developer-krish/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/developer-krish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/developer-krish/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/developer-krish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/developer-krish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Recursion
