@@ -3,33 +3,25 @@ public:
     long long maximumSubarraySum(vector<int>& nums, int k) 
     {
         long long sum = 0;
+        long long maxSum = 0;
         int i = 0, j = 0;
-        long long maxi = 0;
-        unordered_set<int> seen;
-        while(j < nums.size())
-        { 
-            while(seen.find(nums[j]) != seen.end())
-            {
-                seen.erase(nums[i]);
-                sum -= nums[i];
-                i++;
-
-            }
-            seen.insert(nums[j]);
+        int freq[10005] = {};
+        int n = nums.size();
+        while(j < n)
+        {
             sum += nums[j];
-            if(j - i + 1 < k)
-               j++;
-            else if(j - i + 1 == k)
+            freq[nums[j]]++;
+            while(freq[nums[j]] > 1 || j - i + 1 > k)
             {
-                maxi = max(sum, maxi);
-                seen.erase(nums[i]);
+                freq[nums[i]]--;
                 sum -= nums[i];
                 i++;
-                j++;
             }
-                          
+            if(j - i + 1 == k)
+               maxSum = max(maxSum, sum);
+            j++;
         }
-        return maxi;
+        return maxSum;
         
     }
 };
