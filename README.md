@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/developer-krish/LeetCode/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/developer-krish/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
