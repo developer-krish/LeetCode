@@ -5,7 +5,7 @@ public:
         long long sum = 0;
         long long maxSum = 0;
         int i = 0, j = 0;
-        int freq[10005] = {};
+        int freq[100005] = {};
         int n = nums.size();
         while(j < n)
         {
