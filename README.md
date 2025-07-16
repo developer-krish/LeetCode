@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developer-krish/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/developer-krish/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/developer-krish/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/developer-krish/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/developer-krish/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/developer-krish/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/developer-krish/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/developer-krish/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/developer-krish/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/developer-krish/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/developer-krish/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/developer-krish/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/developer-krish/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/developer-krish/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
