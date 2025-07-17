@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/developer-krish/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Breadth-First Search
 |  |
