@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/developer-krish/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/developer-krish/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/developer-krish/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/developer-krish/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/developer-krish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/developer-krish/LeetCode/tree/master/0049-group-anagrams) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/developer-krish/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/developer-krish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/developer-krish/LeetCode/tree/master/0733-flood-fill) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/developer-krish/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/developer-krish/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/developer-krish/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/developer-krish/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
