@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/developer-krish/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/developer-krish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/developer-krish/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/developer-krish/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/developer-krish/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/developer-krish/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/developer-krish/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/developer-krish/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/developer-krish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/developer-krish/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/developer-krish/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/developer-krish/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/developer-krish/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/developer-krish/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/developer-krish/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/developer-krish/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/developer-krish/LeetCode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/developer-krish/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
