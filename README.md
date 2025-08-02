@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/developer-krish/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/developer-krish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/developer-krish/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/developer-krish/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -332,12 +333,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/developer-krish/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/developer-krish/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/developer-krish/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
