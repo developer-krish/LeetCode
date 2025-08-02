@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/developer-krish/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/developer-krish/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/developer-krish/LeetCode/tree/master/0486-predict-the-winner) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
