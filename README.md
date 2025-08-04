@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/developer-krish/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/developer-krish/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/developer-krish/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/developer-krish/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/developer-krish/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/developer-krish/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/developer-krish/LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/developer-krish/LeetCode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/developer-krish/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
