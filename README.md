@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/developer-krish/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/developer-krish/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0932-monotonic-array](https://github.com/developer-krish/LeetCode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/developer-krish/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0967-minimum-falling-path-sum) |
