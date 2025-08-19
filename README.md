@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/developer-krish/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/developer-krish/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/developer-krish/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/developer-krish/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-reaching-points](https://github.com/developer-krish/LeetCode/tree/master/0796-reaching-points) |
 | [0856-consecutive-numbers-sum](https://github.com/developer-krish/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/developer-krish/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/developer-krish/LeetCode/tree/master/0486-predict-the-winner) |
+| [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
