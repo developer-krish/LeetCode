@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/developer-krish/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/developer-krish/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/developer-krish/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/developer-krish/LeetCode/tree/master/0202-happy-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/developer-krish/LeetCode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
