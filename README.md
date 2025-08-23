@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/developer-krish/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/developer-krish/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/developer-krish/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/developer-krish/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3617-find-the-original-typed-string-i](https://github.com/developer-krish/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/developer-krish/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
