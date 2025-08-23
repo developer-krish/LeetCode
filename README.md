@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/developer-krish/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/developer-krish/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/developer-krish/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -490,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
