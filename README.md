@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/developer-krish/LeetCode/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/developer-krish/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/developer-krish/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/developer-krish/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/developer-krish/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 ## Bucket Sort
 |  |
 | ------- |
