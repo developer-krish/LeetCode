@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/developer-krish/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/developer-krish/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/developer-krish/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0796-reaching-points](https://github.com/developer-krish/LeetCode/tree/master/0796-reaching-points) |
 | [0856-consecutive-numbers-sum](https://github.com/developer-krish/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/developer-krish/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/developer-krish/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/developer-krish/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/developer-krish/LeetCode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/developer-krish/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/developer-krish/LeetCode/tree/master/0389-find-the-difference) |
+| [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/developer-krish/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/developer-krish/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
