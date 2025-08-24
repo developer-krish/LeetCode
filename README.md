@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/developer-krish/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/developer-krish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/developer-krish/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/developer-krish/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/developer-krish/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/developer-krish/LeetCode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/developer-krish/LeetCode/tree/master/0402-remove-k-digits) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/developer-krish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/developer-krish/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/developer-krish/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/developer-krish/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/developer-krish/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/developer-krish/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/developer-krish/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
