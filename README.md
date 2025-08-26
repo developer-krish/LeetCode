@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/developer-krish/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
