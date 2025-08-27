@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/developer-krish/LeetCode/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 ## Bucket Sort
 |  |
