@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/developer-krish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/developer-krish/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/developer-krish/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/developer-krish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/developer-krish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/developer-krish/LeetCode/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/developer-krish/LeetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/developer-krish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/developer-krish/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/developer-krish/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/developer-krish/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-krish/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/developer-krish/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/developer-krish/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/developer-krish/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/developer-krish/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-krish/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/developer-krish/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/developer-krish/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
