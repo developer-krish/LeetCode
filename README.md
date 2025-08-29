@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/developer-krish/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/developer-krish/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/developer-krish/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/developer-krish/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/developer-krish/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/developer-krish/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/developer-krish/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/developer-krish/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/developer-krish/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/developer-krish/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
