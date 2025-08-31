@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/developer-krish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/developer-krish/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/developer-krish/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/developer-krish/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/developer-krish/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/developer-krish/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/developer-krish/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/developer-krish/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/developer-krish/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/developer-krish/LeetCode/tree/master/0292-nim-game) |
