@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/developer-krish/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/developer-krish/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/developer-krish/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/developer-krish/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/developer-krish/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/developer-krish/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/developer-krish/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/developer-krish/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
