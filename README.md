@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/developer-krish/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/developer-krish/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/developer-krish/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/developer-krish/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/developer-krish/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/developer-krish/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/developer-krish/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
