@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/developer-krish/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/developer-krish/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-defuse-the-bomb](https://github.com/developer-krish/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/developer-krish/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/developer-krish/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/developer-krish/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/developer-krish/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/developer-krish/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
