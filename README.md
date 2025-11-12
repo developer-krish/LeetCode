@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/developer-krish/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/developer-krish/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/developer-krish/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/developer-krish/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/developer-krish/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/developer-krish/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/developer-krish/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/developer-krish/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/developer-krish/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/developer-krish/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/developer-krish/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/developer-krish/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
