@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/developer-krish/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0474-ones-and-zeroes](https://github.com/developer-krish/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/developer-krish/LeetCode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/developer-krish/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/developer-krish/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/developer-krish/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-krish/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/developer-krish/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/developer-krish/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/developer-krish/LeetCode/tree/master/0525-contiguous-array) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/developer-krish/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/developer-krish/LeetCode/tree/master/0078-subsets) |
+| [0491-non-decreasing-subsequences](https://github.com/developer-krish/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/developer-krish/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/developer-krish/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/developer-krish/LeetCode/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/developer-krish/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/developer-krish/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/developer-krish/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
