@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/developer-krish/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/developer-krish/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/developer-krish/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/developer-krish/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/developer-krish/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/developer-krish/LeetCode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/developer-krish/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/developer-krish/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/developer-krish/LeetCode/tree/master/0729-my-calendar-i) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/developer-krish/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/developer-krish/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/developer-krish/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/developer-krish/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
