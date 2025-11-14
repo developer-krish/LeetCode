@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/developer-krish/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/developer-krish/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/developer-krish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0406-queue-reconstruction-by-height](https://github.com/developer-krish/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/developer-krish/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/developer-krish/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/developer-krish/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/developer-krish/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/developer-krish/LeetCode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/developer-krish/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developer-krish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-krish/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/developer-krish/LeetCode/tree/master/0502-ipo) |
@@ -462,10 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/developer-krish/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/developer-krish/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/developer-krish/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/developer-krish/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/developer-krish/LeetCode/tree/master/0729-my-calendar-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
