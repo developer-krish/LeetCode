@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/developer-krish/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/developer-krish/LeetCode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/developer-krish/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-smallest-range-i](https://github.com/developer-krish/LeetCode/tree/master/0944-smallest-range-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/developer-krish/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/developer-krish/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/developer-krish/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0796-reaching-points](https://github.com/developer-krish/LeetCode/tree/master/0796-reaching-points) |
 | [0856-consecutive-numbers-sum](https://github.com/developer-krish/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [0944-smallest-range-i](https://github.com/developer-krish/LeetCode/tree/master/0944-smallest-range-i) |
 | [0994-prison-cells-after-n-days](https://github.com/developer-krish/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/developer-krish/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/developer-krish/LeetCode/tree/master/1086-divisor-game) |
