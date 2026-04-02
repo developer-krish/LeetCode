@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/developer-krish/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/developer-krish/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/developer-krish/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/developer-krish/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/developer-krish/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/developer-krish/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/developer-krish/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/developer-krish/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Breadth-First Search
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/developer-krish/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/developer-krish/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/developer-krish/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/developer-krish/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String
 |  |
 | ------- |
