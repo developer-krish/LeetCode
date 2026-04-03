@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/developer-krish/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/developer-krish/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/developer-krish/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/developer-krish/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/developer-krish/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/developer-krish/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/developer-krish/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/developer-krish/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/developer-krish/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/developer-krish/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/developer-krish/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/developer-krish/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/developer-krish/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/developer-krish/LeetCode/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/developer-krish/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/developer-krish/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/developer-krish/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
