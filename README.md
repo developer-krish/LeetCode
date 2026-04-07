@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/developer-krish/LeetCode/tree/master/0729-my-calendar-i) |
 | [0937-online-stock-span](https://github.com/developer-krish/LeetCode/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/developer-krish/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/developer-krish/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/developer-krish/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/developer-krish/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/developer-krish/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/developer-krish/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/developer-krish/LeetCode/tree/master/2751-robot-collisions) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/developer-krish/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/developer-krish/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
